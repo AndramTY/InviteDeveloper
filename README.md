@@ -2,9 +2,9 @@
 
 # InviteDeveloper
 
-[![version](https://img.shields.io/github/package-json/v/AndramTY/InviteDeveloper?style=for-the-badge)](https://github.com/AndramTY/InviteDeveloper)
+[![version](https://img.shields.io/github/package-json/v/Androz2091/ManageInvite?style=for-the-badge)](https://github.com/AndramTY/InviteDeveloper)
 
-[![discord](https://img.shields.io/discord/638685268777500672?style=for-the-badge&color=7289DA&label=Discord)](https://discord.gg/v26Sqqs)
+[![discord](https://img.shields.io/discord/638685268777500672?style=for-the-badge&color=7289DA&label=Discord)](https://discord.gg/aAsdA3r)
 
 [![patreon](https://img.shields.io/endpoint.svg?url=https://shieldsio-patreon.herokuapp.com/AndramTY&style=for-the-badge)](https://patreon.com/AndramTY)
 
